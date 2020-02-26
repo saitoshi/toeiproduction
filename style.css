@@ -1,0 +1,16 @@
+.borderless.topmenu.menu {
+  background-color: none;
+  box-shadow: none;
+  border: none;
+}
+.body {
+  background-color: #F2F2F2;
+  color: #333333;
+}
+
+.footer-background {
+  background-color: black;
+  color: white;
+  height: 200px;
+  
+}
